@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Wed Oct 07 03:39:06 EDT 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0175-01ff-dcd5-000007d43ce8 
-on database directory memory:/Users/Tedqiao/Documents/spring/Cs5200Fall2020Kaiheng/39a6f8ac-7e22-4e11-b3a4-85d8b316325b with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Wed Oct 07 10:46:05 EDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0175-0386-c48b-0000108d7458 
+on database directory memory:/Users/Tedqiao/Documents/spring/Cs5200Fall2020Kaiheng/1284505e-ef95-4413-8c4b-4fb602ed0b6a with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
 Loaded from file:/Users/Tedqiao/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=AdoptOpenJDK
 java.runtime.version=1.8.0_232-b09
